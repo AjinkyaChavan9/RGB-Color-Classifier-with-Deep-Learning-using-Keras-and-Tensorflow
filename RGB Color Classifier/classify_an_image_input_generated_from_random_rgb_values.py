@@ -78,10 +78,6 @@ color_dict={
 """## Input from User to generate 'n' Random RGB images & Predicting their Color Class(Label)"""
 
 # User input for number of images to be classified
-while(1):
-    n = int(input('Enter number of images to be classified: '))
-    print()
-    break
 
 #load trained_model
 for i in range(n) :
