@@ -21,7 +21,7 @@
 
 
 
-**Step - 2 :** Next, visit http://localhost:8501/ on the host machine to view the Web App running from a docker container
+**Step - 3 :** Next, visit http://localhost:8501/ on the host machine to view the Web App running from a docker container
 
 
 This app is created and maintained by [Ajinkya Chavan](https://www.linkedin.com/in/ajinkyachavan9)
