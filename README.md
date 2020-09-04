@@ -1,10 +1,10 @@
 # RGB-Color-Classifier-with-Deep-Learning-using-Keras-and-Tensorflow
 
-**RGB Color Classifier** can Predict upto *11 Distinct Color Classes* based on the *RGB input* by User from the sliders
+### **RGB Color Classifier** can Predict upto *11 Distinct Color Classes* based on the *RGB input* by User from the sliders
 
-The 11 Classes are *Red, Green, Blue, Yellow, Orange, Pink, Purple, Brown, Grey, Black and White*
+### The 11 Classes are *Red, Green, Blue, Yellow, Orange, Pink, Purple, Brown, Grey, Black and White*
 
-### [RGB Color Classifier Online Web App](https://rgb-color-classifier.herokuapp.com/)
+### [RGB Color Classifier Web App](https://rgb-color-classifier.herokuapp.com/)
 
 
 
