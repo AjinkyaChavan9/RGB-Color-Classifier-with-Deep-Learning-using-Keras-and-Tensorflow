@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run RGB_web_app.py
