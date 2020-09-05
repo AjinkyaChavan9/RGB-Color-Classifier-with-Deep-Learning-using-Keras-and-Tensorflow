@@ -7,7 +7,7 @@
 ### [RGB Color Classifier Web App](https://rgb-color-classifier.herokuapp.com/)
 Here is the app preview:
 
-![App preview](https://imgur.com/GKIV5ic.png)
+![App preview](https://imgur.com/pOyQxNA.png)
 
 
 ### Here is how to get the RGB Color Classifier Web App running locally on Docker containers
