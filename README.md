@@ -5,7 +5,9 @@
 ### The 11 Classes are *Red, Green, Blue, Yellow, Orange, Pink, Purple, Brown, Grey, Black and White*
 
 ### [RGB Color Classifier Web App](https://rgb-color-classifier.herokuapp.com/)
+Here is the app preview:
 
+![App preview](https://imgur.com/GKIV5ic.png)
 
 
 ### Here is how to get the RGB Color Classifier Web App running locally on Docker containers
