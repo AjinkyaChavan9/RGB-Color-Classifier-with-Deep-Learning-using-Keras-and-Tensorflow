@@ -12,12 +12,12 @@
 
 **Step - 1 :** Download docker image
 
-```docker pull ajinkyachavan9/rgb_color_classifier```
+    docker pull ajinkyachavan9/rgb_color_classifier
 
 
 **Step - 2 :** Run docker container
 
-```docker container run -p 8501:8501 -d ajinkyachavan9/rgb_color_classifier```
+    docker container run -p 8501:8501 -d ajinkyachavan9/rgb_color_classifier
 
 
 
