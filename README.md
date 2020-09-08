@@ -9,8 +9,9 @@ Here is the app preview:
 
 ![App preview](https://imgur.com/pOyQxNA.png)
 
+### Blog Link: [Building RGB Color Classifier: Part 1](https://medium.com/@ajinkyashailendrachavan/building-rgb-color-classifier-part-1-af58e3bcfef7?source=friends_link&sk=ccfe356092f3bb4c9996990ac8b46ae8)
 
-### Here is how to get the RGB Color Classifier Web App running locally on Docker containers
+## Here is how to get the RGB Color Classifier Web App running locally on Docker containers
 
 **Step - 1 :** Download docker image
 
