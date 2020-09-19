@@ -31,9 +31,6 @@ color_dict={
     10 : 'White'
 }
 
-"""## Input from User to generate 'n' Random RGB images & Predicting their Color Class(Label)"""
-
-# User input for number of images to be classified
 #predicting from loaded trained_model
 def predict_color(Red, Green, Blue):
     rgb = np.asarray((Red, Green, Blue)) #rgb tuple to numpy array
