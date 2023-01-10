@@ -12,7 +12,7 @@ from tensorflow.keras import layers
 
 """## Loading Trained Model"""
 # Recreate the exact same model, including its weights and the optimizer
-model = tf.keras.models.load_model('colormodel_trained_90.h5') 
+model = tf.keras.models.load_model('https://github.com/AjinkyaChavan9/RGB-Color-Classifier-with-Deep-Learning-using-Keras-and-Tensorflow/blob/master/RGB_Color_Classifier_app/colormodel_trained_90.h5') 
 
 """## Initializing Color Classes for Prediction"""
 
