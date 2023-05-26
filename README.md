@@ -4,7 +4,7 @@
 
 ### The 11 Classes are *Red, Green, Blue, Yellow, Orange, Pink, Purple, Brown, Grey, Black and White*
 
-### [RGB Color Classifier Web App](https://rgb-color-classifier.herokuapp.com/)
+### [RGB Color Classifier Web App](https://ajinkyachavan9-rgb-c-rgb-color-classifier-apprgb-web-app-r35goh.streamlit.app/)
 Here is the app preview:
 
 ![App preview](https://imgur.com/pOyQxNA.png)
